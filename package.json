@@ -24,8 +24,5 @@
   },
   "homepage": "https://github.com/opicacek/google-geo-position",
   "main": "geo_status.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "license": "MIT"
 }
