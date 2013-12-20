@@ -1,0 +1,31 @@
+{
+  "name": "google-geo-position",
+  "version": "0.0.1",
+  "author": "Opi Danihelka",
+  "description": "Getting longitude and latitude from Google Maps Geo API. Solves OVER_QUERY_LIMIT problem.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opicacek/google-geo-position"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "address",
+    "geo",
+    "location",
+    "longitude",
+    "latitude"
+  ],
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/opicacek/google-geo-position/issues"
+  },
+  "homepage": "https://github.com/opicacek/google-geo-position",
+  "main": "geo_status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
